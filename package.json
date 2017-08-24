@@ -1,5 +1,5 @@
 {
-  "name": "node-sdk",
+  "name": "aip-node-sdk",
   "version": "1.2.0",
   "description": "SDK for baidu ai plateform ,see: ai.baidu.com",
   "main": "src/index.js",
